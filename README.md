@@ -1,11 +1,20 @@
-### Hello, nice to meet you :wave:
+# Hello world, I'm Sophie :wave:
+
+I am a Frontend Developer from Germany with experience in content and project management. </br>
+I studied at <a href = https://github.com/coding-bootcamps-eu>Coding Bootcamps Europe</a> and am open for trainee and junior positions.
+
+## Skills
 
 ![HTML](https://img.shields.io/badge/HTML-5-red) ![CSS](https://img.shields.io/badge/CSS-3-blueviolet) ![JavaScript](https://img.shields.io/badge/ES6-JavaScript-yellow) ![Vue.js](https://img.shields.io/badge/Vue-3-brightgreen)
+- Node.js
+- Git, VS Code, npm
+- Cypress, Jest
 
-- Currently studying at <a href = https://github.com/coding-bootcamps-eu>Coding Bootcamps Europe</a> to work as a Frontend Web Developer 👩🏻‍💻
-- Addicted to CSS and Codewars-Katas (6 kyu) 🤟
-- Interested in: Accessability, Semantic HTML, Clean Code, Typescript 💡
-- I love learning 🤓
-  - Currently: How to handle a racing bike 🚴
-  - Next: Romanian 🇷🇴 and how to play the Kalimba 🎵
-- I have a soft spot for business thrillers à la Wirecard 🕵️
+## Interests
+- Accessibility, Clean Code
+- Agile (SCRUM)
+- Learning: TypeScript, JS frameworks, SASS, PHP, Typo3
+
+## Contact
+
+###### [Mail me](mailto:sophie.brunner.91@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sophie-brunner-060161165/)
