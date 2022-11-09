@@ -1,7 +1,11 @@
 # Hello world, I'm Sophie :wave:
 
-I am a Frontend Developer from Germany with experience in content and project management. </br>
-I studied at <a href = https://github.com/coding-bootcamps-eu>Coding Bootcamps Europe</a> and am open for trainee and junior positions.
+* 👩🏻‍💻 Frontend Developer with experience in content and project management
+* 🎓 Graduated at <a href = https://github.com/coding-bootcamps-eu>Coding Bootcamps Europe</a>
+* 🕵️ Looking for a trainee or junior position
+* 🧑‍🏫 Loves learning - what should be next on my schedule? TypeScript, JS frameworks, SASS, PHP, Typo3?
+* 🪱 Book worm
+* 🚴 Road biker
 
 ## Skills
 
@@ -9,11 +13,6 @@ I studied at <a href = https://github.com/coding-bootcamps-eu>Coding Bootcamps E
 - Node.js
 - Git, VS Code, npm
 - Cypress, Jest
-
-## Interests
-- Accessibility, Clean Code
-- Agile (SCRUM)
-- Learning: TypeScript, JS frameworks, SASS, PHP, Typo3
 
 ## Contact
 
