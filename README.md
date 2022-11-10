@@ -1,11 +1,10 @@
 # Hello world, I'm Sophie :wave:
 
 * 👩🏻‍💻 Frontend Developer with experience in content and project management
-* 🎓 Graduated at <a href = https://github.com/coding-bootcamps-eu>Coding Bootcamps Europe</a>
+* 🎓 Graduated from <a href = https://github.com/coding-bootcamps-eu>Coding Bootcamps Europe</a>
 * 🕵️ Looking for a trainee or junior position
-* 🧑‍🏫 Loves learning - what should be next on my schedule? TypeScript, JS frameworks, SASS, PHP, Typo3?
-* 🪱 Book worm
-* 🚴 Road biker
+* 🧑‍🏫 Loves learning - what should be next on my schedule? TypeScript, JS frameworks, SASS, PHP, Python, Typo3?
+* 🚴 Road biker by day 🪱 Book worm by night
 
 ## Skills
 
