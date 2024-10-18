@@ -1,11 +1,11 @@
 # Hello world, I'm Sophie :wave:
 
-* 👩🏻‍💻 Frontend Developer @<a href = https://github.com/tollwerk>tollwerk</a> and therefore collaborating now on <a href=https://gitlab.tollwerk.net/sophie>GitLab</a>
+* 👩🏻‍💻 Frontend Developer @<a href = https://github.com/tollwerk>tollwerk</a> (therefore collaborating now on <a href=https://code.tollwerk.net/sophie>GitLab</a>), specializing in Accessibility
 * 🎓 Graduated from <a href = https://github.com/coding-bootcamps-eu>Coding Bootcamps Europe</a>
 * 🎼 M. A. Musicology with experience as project & content manager for orchestras
 * 💡 Solving tech problems in the family since 2008
-* 🧑‍🏫 Loves learning. Next on my schedule: TypeScript, Angular & React
-* 🚴 Road biker by day 🪱 Book worm by night
+* 🧑‍🏫 Loves learning. Next on my schedule: TypeScript, PHP
+* 🚴 Biker by day 🪱 Book worm by night
 
 ## Skills
 
